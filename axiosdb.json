@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Vinayaga",
+      "username": "vinay",
+      "email": "vinayqqqq@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Abinayas",
+      "username": "abiii",
+      "email": "abi@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Vinayaga",
+      "username": "vinay_g",
+      "email": "vinay@gmail.com",
+      "id": 3
+    }
+  ]
+}
